@@ -22,8 +22,8 @@
             <!-- Research Session -->
             <div class="row bg-light p-3 mb-3 align-items-center justify-content-center">
                 <div class="col-9 border border-2 border-danger">
-                    <div class="card border-primary border-2">
-                        <div class="card-body text-center py-5">
+                    <div class="card border-danger border-2">
+                        <div class="card-body text-center py-4">
                             <div class="card-title">Attend The Research Session</div>
                             <div class="lead card-subtitle mb-2 text-body-secondary">Join the Session Here</div>
                             
